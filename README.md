@@ -1,34 +1,40 @@
-# Clinic Management System
+# 👋 Hi, I'm [Quoc]!
 
-![Clinic Management System Screenshot](https://johnsonclinic.vn/wp-content/uploads/2022/10/cover-2.jpg)
+![Profile Picture](./Quoc.gif)
 
-## Mô tả dự án
+## 🌟 About Me
 
-**Clinic Management System** là hệ thống quản lý phòng khám trực tuyến, cho phép quản lý thông tin bác sĩ, bệnh nhân, lịch khám, chuyên khoa và nhiều chức năng khác. Hệ thống này giúp cải thiện quy trình quản lý và nâng cao hiệu quả làm việc cho các phòng khám.
+I'm a **[Your Role]** with a passion for **[your key interests/skills]**. I have experience in building robust applications and managing projects that solve real-world problems. Whether it's backend development, frontend UI/UX, or full-stack work, I enjoy turning complex challenges into elegant solutions.
 
-## Các chức năng chính
-
-- Quản lý thông tin **bác sĩ**, **bệnh nhân**, và **nhân viên phòng khám**
-- Quản lý **chuyên khoa** và phân công bác sĩ theo từng chuyên khoa
-- Quản lý **lịch trình khám bệnh** và cập nhật lịch khám
-- Xác thực và phân quyền cho **Admin**, **Doctor**, **Receptionist**, và **Patient**
-- Đăng ký và cập nhật hồ sơ cá nhân cho bệnh nhân và bác sĩ
-- Tích hợp với **JWT** cho bảo mật và xác thực thông tin
-
-## Công nghệ sử dụng
-
-- **Frontend**: ReactJS, Ant Design
-- **Backend**: Spring Boot, Maven
-- **Database**: MySQL
-- **Security**: JWT (JSON Web Token)
-
-## Cài đặt và chạy dự án
-
-### Yêu cầu hệ thống
-
-- **Java 17** hoặc mới hơn
-- **Node.js** và **npm** cho frontend
-- **MySQL** cho cơ sở dữ liệu
+- 🌱 I'm currently learning: **[Technology/Skill]**
+- 💼 I'm working on: **[Project/Area]**
+- 🛠️ My key skills include: **[Technologies/Frameworks/Languages]**
 
 
 
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+## 💬 How to Reach Me
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- GitHub: [yourusername](https://github.com/yourusername)
+
+---
+
+## 🔗 Portfolio
+
+Check out my portfolio at [yourportfolio.com](https://yourportfolio.com) to see more of my work!
+
+---
+
+## ✨ Fun Fact
+
+I love **[something fun about you: e.g., hiking, painting, solving puzzles, etc.]** when I'm not coding!
