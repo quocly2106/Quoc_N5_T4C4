@@ -30,10 +30,5 @@
 - **Node.js** và **npm** cho frontend
 - **MySQL** cho cơ sở dữ liệu
 
-### Các bước cài đặt
 
-1. **Clone repository**
-
-   ```bash
-   git clone https://github.com/quocly2106/Quoc_N5_T4C4.git
 
