@@ -7,7 +7,7 @@
 I'm a **Full-Stack Developer** with a passion for **building scalable applications** and **solving complex problems**. Currently, I'm working on a **Clinic Management System** that helps clinics manage appointments, doctors, patients, and schedules efficiently.
 
 - 💼 I'm working on: **Clinic Management System** using **React**, **Spring Boot**, and **MySQL**.
-- 🛠️ My key skills include: **Java**, **Spring Boot**, **ReactJS**, **JavaScript**, **Ant Design**, **MySQL**, and **JWT Authentication**.
+- 🛠️ My key skills include: **Java**, **Spring Boot**, **ReactJS**, **JavaScript**, **MySQL**, and **JWT Authentication**.
 
 ---
 
@@ -27,28 +27,16 @@ This project helps clinics manage their operations, including:
 ## 🔧 Technologies & Tools Used
 
 - **Languages**: Java, JavaScript, HTML, CSS
-- **Frontend**: ReactJS, Ant Design
+- **Frontend**: ReactJS
 - **Backend**: Spring Boot, JWT for authentication
 - **Database**: MySQL
 - **Tools**: Git, Maven, Postman
 
 ---
 
-## 🖼️ Screenshots
-
-Here’s a quick look at the project:
-
-### Doctor Management View
-![Doctor Management](https://via.placeholder.com/600x300.png?text=Doctor+Management+View)
-
-### Schedule Management View
-![Schedule Management](https://via.placeholder.com/600x300.png?text=Schedule+Management+View)
-
----
-
 ## 📈 GitHub Stats
 
-![Quoc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Quoc's GitHub Stats](https://github.com/quocly2106/clinic_management)
 
 ---
 
@@ -60,12 +48,7 @@ Here’s a quick look at the project:
 
 ---
 
-## 🔗 Portfolio
-
-Check out my portfolio at [yourportfolio.com](https://yourportfolio.com) to see more of my work!
-
----
 
 ## ✨ Fun Fact
 
-When I'm not coding, I enjoy **playing chess**, **exploring new tech gadgets**, and **watching sci-fi movies**.
+When I'm not coding, I enjoy **playing game** and **watching sci-fi movies**.
